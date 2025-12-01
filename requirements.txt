@@ -27,7 +27,7 @@ executing==2.0.1
 fastapi==0.109.1
 fastapi-limiter==0.1.5
 fastjsonschema==2.20.0
-fonttools==4.53.0
+fonttools==4.61.0
 fqdn==1.5.1
 funcsigs==1.0.2
 h11==0.16.0
